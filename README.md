@@ -38,5 +38,5 @@ opt.csv: Optimization parameters for all graphs in Graphs(p=7、8、9).
 
 4_.py ：Selecting the intermediate parameters.
 
-5_.py : The scaling parameters are used as the initial parameters of WMVCP and solved.
+qaoa.py : The scaling parameters are used as the initial parameters of WMVCP and solved.
 
