@@ -1,4 +1,4 @@
-# Code
+# Parameter-scaling QAOA solution for WMVCP
 
 
 ### Requirements
