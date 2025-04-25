@@ -5,13 +5,13 @@
 
 Recommended: create an Anaconda environment
 
-(1)mindquantum==0.9.11
+（1）mindquantum==0.9.11
 
-https://www.mindspore.cn/mindquantum/docs/zh-CN/r0.9/mindquantum_install.html
+    https://www.mindspore.cn/mindquantum/docs/zh-CN/r0.9/mindquantum_install.html
 
-(2)mindspore==2.2.12
+（2）mindspore==2.2.12
 
-https://www.mindspore.cn/install/
+    https://www.mindspore.cn/install/
 
 
 ### Instructions
