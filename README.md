@@ -3,7 +3,7 @@
 
 ### Requirements
 
-Recommended: create an Anaconda environment
+Recommended:  create an Anaconda environment
 
 （1）mindquantum==0.9.11
 
@@ -16,13 +16,18 @@ Recommended: create an Anaconda environment
 
 ### Instructions
 
-（1）Graphs：Minimum vertex cover graph data
+（1）Graphs： Minimum vertex cover graph data
 
     https://github.com/QAOAKit/data/tree/bdd9220486b456ce93727d75ede9308a4fc8a9c8/qaoa-dataset-version1/Graphs
 
 Specifically from：
 
     https://users.cecs.anu.edu.au/~bdm/data/graphs.html
+
+（2）Graph Data： Optimization parameters
+
+opt.csv: Optimization parameters for all graphs in Graphs.
+
 
 
 
